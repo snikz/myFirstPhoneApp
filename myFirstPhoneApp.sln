@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneApp1", "PhoneApp1\PhoneApp1.csproj", "{5018F667-4A2C-46FE-8C67-27519AF6BFC9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfTest", "WcfTest\WcfTest.csproj", "{3A988FE0-6476-4795-BB3C-EBA3D31F0B39}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,14 @@ Global
 		{5018F667-4A2C-46FE-8C67-27519AF6BFC9}.Release|x86.ActiveCfg = Release|x86
 		{5018F667-4A2C-46FE-8C67-27519AF6BFC9}.Release|x86.Build.0 = Release|x86
 		{5018F667-4A2C-46FE-8C67-27519AF6BFC9}.Release|x86.Deploy.0 = Release|x86
+		{3A988FE0-6476-4795-BB3C-EBA3D31F0B39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A988FE0-6476-4795-BB3C-EBA3D31F0B39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A988FE0-6476-4795-BB3C-EBA3D31F0B39}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{3A988FE0-6476-4795-BB3C-EBA3D31F0B39}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{3A988FE0-6476-4795-BB3C-EBA3D31F0B39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A988FE0-6476-4795-BB3C-EBA3D31F0B39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A988FE0-6476-4795-BB3C-EBA3D31F0B39}.Release|ARM.ActiveCfg = Release|Any CPU
+		{3A988FE0-6476-4795-BB3C-EBA3D31F0B39}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

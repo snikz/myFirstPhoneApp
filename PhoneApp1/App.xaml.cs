@@ -12,6 +12,7 @@ namespace PhoneApp1
 {
     public partial class App : Application
     {
+        public static string name;
         /// <summary>
         /// Provides easy access to the root frame of the Phone Application.
         /// </summary>

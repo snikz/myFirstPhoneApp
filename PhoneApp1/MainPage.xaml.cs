@@ -22,6 +22,13 @@ namespace PhoneApp1
             //BuildLocalizedApplicationBar();
         }
 
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            App.name = textName.Text;
+            string uri = "/ShowName.xaml";
+            NavigationService.Navigate(new Uri(uri, UriKind.Relative));
+        }
+
         // Sample code for building a localized ApplicationBar
         //private void BuildLocalizedApplicationBar()
         //{
